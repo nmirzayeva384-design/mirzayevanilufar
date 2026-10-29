@@ -1,0 +1,6 @@
+{
+  "name": "EcoEconomics — Atrof-muhit iqtisodiyoti va iqlim o'zgarishi",
+  "description": "Iqtisodiyot yo'nalishi 3-kurs talabalari uchun Atrof-muhit iqtisodiyoti va iqlim o'zgarishi fanining 3 tilli (UZ/EN/RU) interaktiv o'quv portali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
